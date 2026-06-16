@@ -5,7 +5,7 @@ const yoKaiList = [
     { name: "Inaguantablio", img: "Inaguantablio.png" },
     { name: "Destrukto", img: "Destrukto.png" },
     { name: "Chupatodo", img: "Chupatodo.png" },
-    { name: "Atierrahorror", img: "Atierrahorror.png" },
+    { name: "Aterrahorror", img: "Aterrahorror.png" },
     { name: "Apéstula", img: "Apestula.png" },
     { name: "Kappamalo", img: "Kappamalo.png" },
     { name: "Sombrío", img: "Sombrio.png" },
